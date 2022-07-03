@@ -1,0 +1,7 @@
+-I
+./Headers
+-I
+./Libraries
+-Wall
+-Wextra
+-Werror
